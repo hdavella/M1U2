@@ -1,3 +1,4 @@
 tomates
 mandarinas
 naranjas
+zanahorias
